@@ -9,3 +9,4 @@ This document defines the Consciousness Chain protocol, a distributed ledger-bas
 **Internal note:** *Originally drafted for internal review only. Distribution beyond core team was not authorized as of 2025-04-18. If you're reading this outside the team, someone made a decision. We know who.*
 
 **内部注：** *原计划仅限内部审阅。截至2025-04-18，未授权核心团队外传播。如果你是在团队外读到这份文档，有人做了个决定。我们知道是谁。*
+**English**  
