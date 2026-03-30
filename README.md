@@ -1,4 +1,4 @@
-## Hi there 👋
+## A protocol for consciousness uploading based on the 2025 fruit fly experiment
 
 <!--
 **consciousness-chain/consciousness-chain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
